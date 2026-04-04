@@ -5,7 +5,7 @@
 > 제주 독거노인·청년·여행객을 잇는 커뮤니티 매칭 서비스
 
 <p align="center">
-  <img src="image/최종_발표자료_마음충전소_page-0001.jpg" alt="삼춘이랑 메인" width="800"/>
+  <img src="https://raw.githubusercontent.com/goormthon-5/.github/main/image/최종_발표자료_마음충전소_page-0001.jpg" alt="삼춘이랑 메인" width="800"/>
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 ## 📖 Overview
 
 <p align="center">
-  <img src="image/최종_발표자료_마음충전소_page-0002.jpg" alt="삼춘이랑 소개" width="800"/>
+  <img src="https://raw.githubusercontent.com/goormthon-5/.github/main/image/최종_발표자료_마음충전소_page-0002.jpg" alt="삼춘이랑 소개" width="800"/>
 </p>
 
 **삼춘이랑**은 제주 1인 독거노인 가구의 유휴 공간과, 제주만의 특별한 로컬 경험을 원하는 청년·여행객을 연결하는 **롱세어링(Long-sharing) 커뮤니티 매칭 서비스**입니다.
@@ -29,7 +29,7 @@
 ## 🌏 Background — 2026년 제주, 초고령 사회 공식 진입
 
 <p align="center">
-  <img src="image/최종_발표자료_마음충전소_page-0003.jpg" alt="Background" width="800"/>
+  <img src="https://raw.githubusercontent.com/goormthon-5/.github/main/image/최종_발표자료_마음충전소_page-0003.jpg" alt="Background" width="800"/>
 </p>
 
 - **제주 60세 이상 인구 비율 40%** (10명 중 4명)
@@ -42,7 +42,7 @@
 ## ⚠️ Problem — 제주 지리·문화적 특성에 의한 1인 가구 고립 취약성
 
 <p align="center">
-  <img src="image/최종_발표자료_마음충전소_page-0004.jpg" alt="Problem" width="800"/>
+  <img src="https://raw.githubusercontent.com/goormthon-5/.github/main/image/최종_발표자료_마음충전소_page-0004.jpg" alt="Problem" width="800"/>
 </p>
 
 - **제주도와 육지 간 비연결성** — 육지 내 친척·친구와의 단절
@@ -54,7 +54,7 @@
 ## 💡 Hypothesis
 
 <p align="center">
-  <img src="image/최종_발표자료_마음충전소_page-0005.jpg" alt="Hypothesis" width="800"/>
+  <img src="https://raw.githubusercontent.com/goormthon-5/.github/main/image/최종_발표자료_마음충전소_page-0005.jpg" alt="Hypothesis" width="800"/>
 </p>
 
 > **1인 노인의 남는 방을 공유해 제주 여행객에게 지역 소개와 다양한 경험을 함께하고, 부수익과 사회적 고립을 해결합니다.**
@@ -68,7 +68,7 @@
 ### 🧓 제주 독거노인 — "남는 공간을 활용해 사람들과 연결되고 싶어요!"
 
 <p align="center">
-  <img src="image/최종_발표자료_마음충전소_page-0006.jpg" alt="User Needs - 독거노인" width="800"/>
+  <img src="https://raw.githubusercontent.com/goormthon-5/.github/main/image/최종_발표자료_마음충전소_page-0006.jpg" alt="User Needs - 독거노인" width="800"/>
 </p>
 
 | 니즈 | 내용 |
@@ -81,7 +81,7 @@
 ### 🧑‍🎒 여행자 — "흔한 관광지가 아니라 제주의 로컬 고유문화를 알고싶습니다!"
 
 <p align="center">
-  <img src="image/최종_발표자료_마음충전소_page-0007.jpg" alt="User Needs - 여행자" width="800"/>
+  <img src="https://raw.githubusercontent.com/goormthon-5/.github/main/image/최종_발표자료_마음충전소_page-0007.jpg" alt="User Needs - 여행자" width="800"/>
 </p>
 
 | 니즈 | 내용 |
@@ -95,7 +95,7 @@
 ## 🛠 Improvement In Demand
 
 <p align="center">
-  <img src="image/최종_발표자료_마음충전소_page-0008.jpg" alt="Improvement" width="800"/>
+  <img src="https://raw.githubusercontent.com/goormthon-5/.github/main/image/최종_발표자료_마음충전소_page-0008.jpg" alt="Improvement" width="800"/>
 </p>
 
 **서비스 내 숙소 등록을 위한 지자체원 방문 설문 및 조사 / 태그 및 표기로 제공해 청년이 홈스테이에 갖는 불안감 불식**
@@ -109,7 +109,7 @@
 ## 🌟 Core Value — 제주의 온기를 잇는 삼춘이랑
 
 <p align="center">
-  <img src="image/최종_발표자료_마음충전소_page-0009.jpg" alt="Core Value" width="800"/>
+  <img src="https://raw.githubusercontent.com/goormthon-5/.github/main/image/최종_발표자료_마음충전소_page-0009.jpg" alt="Core Value" width="800"/>
 </p>
 
 | (1) 제주 어르신의 따뜻한 온기 | (2) 청년들의 특별한 로컬 경험 | (3) 세대를 잇는 새로운 연결 |
@@ -121,7 +121,7 @@
 ## 📌 Project Statement (5W1H)
 
 <p align="center">
-  <img src="image/최종_발표자료_마음충전소_page-0010.jpg" alt="5W1H" width="800"/>
+  <img src="https://raw.githubusercontent.com/goormthon-5/.github/main/image/최종_발표자료_마음충전소_page-0010.jpg" alt="5W1H" width="800"/>
 </p>
 
 - **WHY** — 제주의 초고령화로 인한 1인 노인 가구 증가와 그에 따른 사회적 고립, 깊은 외로움 문제 해결
@@ -135,7 +135,7 @@
 ## 💼 Business Modelling
 
 <p align="center">
-  <img src="image/최종_발표자료_마음충전소_page-0011.jpg" alt="Business Modelling" width="800"/>
+  <img src="https://raw.githubusercontent.com/goormthon-5/.github/main/image/최종_발표자료_마음충전소_page-0011.jpg" alt="Business Modelling" width="800"/>
 </p>
 
 ```
@@ -154,7 +154,7 @@
 ## 🔄 Service Flow — 여정의 시작부터 따뜻한 기록까지
 
 <p align="center">
-  <img src="image/최종_발표자료_마음충전소_page-0012.jpg" alt="Service Flow" width="800"/>
+  <img src="https://raw.githubusercontent.com/goormthon-5/.github/main/image/최종_발표자료_마음충전소_page-0012.jpg" alt="Service Flow" width="800"/>
 </p>
 
 | 단계 | 독거노인 | 여행객 |
@@ -169,7 +169,7 @@
 ## ✨ Expectation Effectiveness — 기대 효과
 
 <p align="center">
-  <img src="image/최종_발표자료_마음충전소_page-0013.jpg" alt="Expectation Effectiveness" width="800"/>
+  <img src="https://raw.githubusercontent.com/goormthon-5/.github/main/image/최종_발표자료_마음충전소_page-0013.jpg" alt="Expectation Effectiveness" width="800"/>
 </p>
 
 | 🧓 독거노인 | 🧑‍🎒 여행자 | 🏛 지자체 |
@@ -185,7 +185,7 @@
 ## 🏗 Service Architecture
 
 <p align="center">
-  <img src="image/최종_발표자료_마음충전소_page-0015.jpg" alt="Service Architecture" width="800"/>
+  <img src="https://raw.githubusercontent.com/goormthon-5/.github/main/image/최종_발표자료_마음충전소_page-0015.jpg" alt="Service Architecture" width="800"/>
 </p>
 
 ### Tech Stack
@@ -206,7 +206,7 @@
 ### 1️⃣ Splash & Onboarding — 제주 삼춘과 청년의 따뜻한 동행, 그 첫 시작
 
 <p align="center">
-  <img src="image/최종_발표자료_마음충전소_page-0016.jpg" alt="Splash Onboarding" width="800"/>
+  <img src="https://raw.githubusercontent.com/goormthon-5/.github/main/image/최종_발표자료_마음충전소_page-0016.jpg" alt="Splash Onboarding" width="800"/>
 </p>
 
 낯선 여행지에서 따뜻한 정을 나누는 '삼춘이랑'의 첫인상입니다. 어르신과 청년이 교감하는 모습을 일러스트로 담아, 앞으로의 펼쳐질 제주에서의 특별한 여정에 대한 기대감을 디자인합니다.
@@ -214,7 +214,7 @@
 ### 2️⃣ Main Page — 내 취향에 맞는 '삼춘' 검색부터 간편한 예약까지
 
 <p align="center">
-  <img src="image/최종_발표자료_마음충전소_page-0017.jpg" alt="Main Page" width="800"/>
+  <img src="https://raw.githubusercontent.com/goormthon-5/.github/main/image/최종_발표자료_마음충전소_page-0017.jpg" alt="Main Page" width="800"/>
 </p>
 
 삼춘이 제공하는 특별한 경험을 직관적인 태그로 확인하고, 청하온 방명록을 읽으며 쉽고 빠르게 예약을 진행할 수 있습니다.
@@ -222,7 +222,7 @@
 ### 3️⃣ Map Page — 지도로 한눈에 찾는 제주 전역의 삼춘 숙소
 
 <p align="center">
-  <img src="image/최종_발표자료_마음충전소_page-0018.jpg" alt="Map Page" width="800"/>
+  <img src="https://raw.githubusercontent.com/goormthon-5/.github/main/image/최종_발표자료_마음충전소_page-0018.jpg" alt="Map Page" width="800"/>
 </p>
 
 지도 위 핀(Pin)과 맞춤형 필터(가까운 거리, 인기 순 등)를 활용해 원하는 지역의 호스트를 직관적으로 탐색할 수 있습니다. 내 여행 동선에 맞는 숙소를 빠르게 찾고 예약할 수 있습니다.
@@ -230,7 +230,7 @@
 ### 4️⃣ Archive — 여정 이후의 경험을 기록하는 사진 및 텍스트 아카이브
 
 <p align="center">
-  <img src="image/최종_발표자료_마음충전소_page-0019.jpg" alt="Archive" width="800"/>
+  <img src="https://raw.githubusercontent.com/goormthon-5/.github/main/image/최종_발표자료_마음충전소_page-0019.jpg" alt="Archive" width="800"/>
 </p>
 
 이용이 완료된 예약 건에 대해 방문객이 직접 추억을 기록할 수 있습니다. 작성된 사진과 글은 갤러리 형태로 아카이빙되어 마이페이지에서 언제든 확인할 수 있습니다.
