@@ -239,9 +239,12 @@
 
 ## 👨‍👩‍👧‍👦 Team — 마음충전소
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/goormthon-5/.github/main/image/team.png" alt="Team 마음충전소" width="800"/>
-</p>
+<table>
+  <tr>
+    <td>
+      <img src="https://raw.githubusercontent.com/goormthon-5/.github/main/image/team.png" alt="Team 마음충전소" width="400"/>
+    </td>
+    <td>
 
 | 역할 | 이름 |
 |:---:|:---:|
@@ -249,6 +252,10 @@
 | **UI/UX** | 오민주 |
 | **BE** | 이정민 |
 | **FE** | 김서희, 조영찬 |
+
+</td>
+  </tr>
+</table>
 
 ---
 
