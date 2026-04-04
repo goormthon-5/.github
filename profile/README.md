@@ -239,9 +239,13 @@
 
 ## 👨‍👩‍👧‍👦 Team — 마음충전소
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/goormthon-5/.github/main/image/team.png" alt="Team 마음충전소" width="800"/>
+</p>
+
 | 역할 | 이름 |
 |:---:|:---:|
-| **PM** | 문동지 |
+| **PM** | 류충모 |
 | **UI/UX** | 오민주 |
 | **BE** | 이정민 |
 | **FE** | 김서희, 조영찬 |
